@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Kaitlyn + Eugene + van = KEVan
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://travelswithkevan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://travelswithkevan.com"
 #twitter_username: travelswithkevan
 instagram_username: travelswithkevan
 # github_username:  
@@ -33,6 +33,7 @@ disqus:
   shortname: travelswithkevan
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
