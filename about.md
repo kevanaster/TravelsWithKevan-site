@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
-featured_image: /assets/images/pages/about.jpg
+title: About Us
+featured_image: /assets/images/pages/KandE.jpg
 ---
 
+Hello,
+we are Kaitlyn and (Eu)Gene, and we live in our self-converted Promaster campervan.
 
 **Kaitlyn**
 
