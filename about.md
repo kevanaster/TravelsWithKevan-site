@@ -24,3 +24,20 @@ It is a 2018 Promaster 3500 Extended. When we bought Kevan, he had 900 miles on 
 We have 400ah of Lithium, 500 Watts of solar, a 2000 Watt inverter/charger, and a 60amp battery-to-battery charger.
 
 We like to say we have all the unicorns of "#vanlife", toilet, shower, heater, and even 12v air conditioning that we could technically run for short periods (1-2 hours) solely on solar.
+
+
+
+### FAQ
+|Q|A|
+|-|-|
+|How long have you been on the road? | We officially hit the road October 28, 2020. |
+|How long did it take you to build your van out? | We bought Kevan new on the lot in November of 2019, but didn't really start building until January of 2020. When I (Gene) left my job in June, the progress really took off. We were able to complete about 80% of the build before our apartment lease in Seattle, WA ran out and we traveled back to Utah to finish it a week or so before we officially hit the road. <br><br> About 10 Months|
+|How many Watts Solar do you have? |500W, 5x 100Watt Renogy panels mounted on the roof|
+|What kind of batteries do you have? |4x Renogy 100Amp Smart Lithium Batteries for 400AH total storage|
+|How much Water do you have?|We have a 46Gal fresh water tank mounted in the garage, we can fill it most of the way before it spills out, I'd estimate about 42Gal of water|
+|Where do you poop/shower? | We have a Natures Head composting toilet, but we use public bathrooms whenever possible, and we built a shower into our van so we can shower wherever we need to, but again prefer public bathrooms (like Planet Fitness)|
+|What king of gas mileage do you get? | We average around 13-14mpg, the most we've ever seen was just under 16mpg. We have a very heavy build (just shy of 9,000 lbs) and we have larger size tires than stock. |
+|Do you have heat/AC? | Yes, we have an Espar B2 Gasoline heater directly connected to Kevan's gas tank, and we installed a Cruise N Comfort 12v air conditioner (we haven't used it since installing it)
+
+
+
