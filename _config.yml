@@ -16,8 +16,8 @@ disqus: 'travelswithkevan'
 #ga_analytics: 
 
 # Contact form setings
-email: travelswithkevan@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+email: travelswithkevan+websitecontact@gmail.com
+contact_page_description: "Hello, you can use the below form to send us a message with any questions you may have. It is also good to reach out to us via Instagram for faster responses."
 thankyou_page_description: "Your message has been successfully sent!"
 
 # Social links
@@ -41,7 +41,7 @@ navigation:
     url: /about
   - text: Style Guide
     url: /style-guide
-  - text: Contact Me
+  - text: Contact Us
     url: /contact
   - text: Search
     url: /search
