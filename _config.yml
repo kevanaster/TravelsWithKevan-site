@@ -1,5 +1,5 @@
 # Site setings
-name: 'Travels With Kevan'
+name: 'Travels with Kevan'
 description: 'Kaitlyn + Eugene + Van = KEVan'
 meta_description: 'Vanlife travel duo in a self-converted Promaster campervan'
 logo:
@@ -39,8 +39,8 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Van Build
+    url: /van-build
   - text: Contact Us
     url: /contact
   - text: Search
