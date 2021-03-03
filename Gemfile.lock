@@ -71,7 +71,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x86_64-linux-musl
+  universal-darwin-20
 
 DEPENDENCIES
   jekyll!
@@ -82,4 +82,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.2.2
+   2.2.12
