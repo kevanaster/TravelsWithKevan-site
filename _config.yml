@@ -17,6 +17,7 @@ disqus: 'travelswithkevan'
 
 # Contact form setings
 email: travelswithkevan+websitecontact@gmail.com
+formspree_endpoint: xbjpvbjj
 contact_page_description: "Hello, you can use the below form to send us a message with any questions you may have. It is also good to reach out to us via Instagram for faster responses."
 thankyou_page_description: "Your message has been successfully sent!"
 
