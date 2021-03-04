@@ -6,6 +6,8 @@ featured_image: /assets/images/pages/Kevan_stGeorge.JPG
 
 Kevan is a 2018 Promaster 3500 Extended cargo van. We converted him ourselves starting with limited knowledge of construction and building. We learned what we needed on the fly, and got better as we progressed through the build. There are absolutely imperfections in our build, but overall Kevan turned out amazing. We now live full time on the road in Kevan and call him our luxury apartment.
 
+<small>Items linked may be affiliate links</small>
+
 ### Appliances
 Stove
 Fridge

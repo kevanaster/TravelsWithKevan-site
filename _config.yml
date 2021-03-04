@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'twk.jpg'
-  greetings: "!!!!UNDER CONSTRUCTION!!!!  Hello! We are Kaitlyn and Eugene, and we are traveling in our self-converted Promaster named Kevan."
+  greetings: "Hello! We are Kaitlyn and Eugene, and we are traveling in our self-converted Promaster named Kevan."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://travelswithkevan.com/
