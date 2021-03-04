@@ -7,21 +7,19 @@ featured_image: /assets/images/pages/KandE.jpg
 Hello,
 we are Kaitlyn and (Eu)Gene, and we live in our self-converted Promaster campervan.
 
-**Kaitlyn**
+## Kaitlyn
 
 This is where kaitlyn gets to tell us about herself.
 
-**Eugene**
+## Eugene
 
 I'm Eugene, but everyone calls me "Gene". I have grown up traveling around the world and I've always loved to seek adventures. Shortly after graduating high school I joined the Army where I learned the skills required to work in IT. After leaving the Army, I pursued a career in Network Engineering, which lead to an opportunity in Seattle Washington, which is where we now call "home". I chose to take on the challenge of self-building a campervan. It was never the easy path since I had zero skills in any field that would benefit our build process, but I often say I am a graduate of YouTube University. Now I am a full time traveler, exploring the United States, Canada, and Mexico.
 
-**Kevan**
+## Kevan
 
-Our van Kevan is a self-converted campervan. The name Kevan came from our names, the "K" from Kaitlyn, the "E" from Eugene, and the "van" from Promaster cargo van.
+Our van Kevan is a self-converted campervan. The name Kevan came from our names, the "K" from Kaitlyn, the "E" from Eugene, and the "van" because, well, you get it.
 
-It is a 2018 Promaster 3500 Extended. When we bought Kevan, he had 900 miles on the odometer, and was an empty cargo van. Now Kevan is a full-fledged RV complete with a fixed bed, kitchen with running water and a propane range, a bathroom complete with a shower and toilet, and even a dining area.
-
-We have 400ah of Lithium, 500 Watts of solar, a 2000 Watt inverter/charger, and a 60amp battery-to-battery charger.
+Kevan is a 2018 Promaster 3500 Extended. When we bought Kevan, he had 900 miles on the odometer, and was an empty cargo van. Now Kevan is a full-fledged RV complete with a fixed bed, kitchen with running water and a propane range, a bathroom complete with a shower and toilet, and even a dining area/desk space.
 
 We like to say we have all the unicorns of "#vanlife", toilet, shower, heater, and even 12v air conditioning that we could technically run for short periods (1-2 hours) solely on solar.
 
@@ -30,7 +28,7 @@ We like to say we have all the unicorns of "#vanlife", toilet, shower, heater, a
 ### FAQ
 
 |Question|Answer|
-|--------------|----------|
+|----------|----------|
 |How long have you been on the road? | We officially hit the road October 28, 2020. |
 |How long did it take you to build your van out? | We bought Kevan new on the lot in November of 2019, but didn't really start building until January of 2020. When I (Gene) left my job in June, the progress really took off. We were able to complete about 80% of the build before our apartment lease in Seattle, WA ran out and we traveled back to Utah to finish it a week or so before we officially hit the road. <br><br> About 10 Months|
 |How many Watts Solar do you have? |500W, 5x 100Watt Renogy panels mounted on the roof|
