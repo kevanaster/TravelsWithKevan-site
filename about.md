@@ -28,8 +28,9 @@ We like to say we have all the unicorns of "#vanlife", toilet, shower, heater, a
 
 
 ### FAQ
-|Q|A|
-|-|-|
+
+|Question|Answer|
+|--------------|----------|
 |How long have you been on the road? | We officially hit the road October 28, 2020. |
 |How long did it take you to build your van out? | We bought Kevan new on the lot in November of 2019, but didn't really start building until January of 2020. When I (Gene) left my job in June, the progress really took off. We were able to complete about 80% of the build before our apartment lease in Seattle, WA ran out and we traveled back to Utah to finish it a week or so before we officially hit the road. <br><br> About 10 Months|
 |How many Watts Solar do you have? |500W, 5x 100Watt Renogy panels mounted on the roof|
