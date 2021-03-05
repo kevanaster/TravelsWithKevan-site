@@ -5,7 +5,7 @@ meta_description: 'Vanlife travel duo in a self-converted Promaster campervan'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'twk.jpg'
+  image: 'twk.svg'
   greetings: "Hello! We are Kaitlyn and Eugene, and we are traveling in our self-converted Promaster named Kevan."
 favicon: 'assets/images/favicon.ico'
 baseurl: 

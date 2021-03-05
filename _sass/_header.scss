@@ -39,6 +39,7 @@
 }
 
 .profile .avatar {
+  background-color: $avatar-background;
   border: 2px solid $color-accent;
   border-radius: 100%;
   display: block;
