@@ -8,25 +8,16 @@ Hello,
 we are Kaitlyn and (Eu)Gene, and we live in our self-converted Promaster campervan.
 
 
-<br><br>
-{% include image-caption.html imageurl="/images/pages/Kaitlyn.jpg" 
-title="Kaitlyn" caption="Kaitlyn at the North Rim of the Grand Canyon" %}
-
 ## Kaitlyn
 
-This is where kaitlyn gets to tell us about herself.
+I am Kaitlyn! I was born and raised in Utah. I am a voracious consumer of anything true crime and a compulsive apologizer (sorry). I love pizza, Kraft mac & cheese, cinnamon rolls, comedy, movies, music, games, writing, traveling, and sports. One day in high school, a cute new boy named Gene showed up to class, and now I get to call him my husband. I caught the travel bug after a trip to London, and realized that I hadn’t seen very much of my own country. Years of dreaming and planning later, I regularly find myself in total amazement at this life we have created for ourselves and these new memories we are making every single day.
 
-<br><br>
-{% include image-caption.html imageurl="/images/pages/Gene.jpg" 
-title="Gene" caption="Gene trying to ride a OneWheel, totally nailing it!" %}
+
 
 ## Eugene
 
 I'm Eugene, but everyone calls me "Gene". I have grown up traveling around the world and I've always loved to seek adventures. Shortly after graduating high school I joined the Army where I learned the skills required to work in IT. After leaving the Army, I pursued a career in Network Engineering, which lead to an opportunity in Seattle Washington, which is where we now call "home". I chose to take on the challenge of self-building a campervan. It was never the easy path since I had zero skills in any field that would benefit our build process, but I often say I am a graduate of YouTube University. Now I am a full time traveler, exploring the United States, Canada, and Mexico.
 
-<br><br>
-{% include image-caption.html imageurl="/images/pages/Kevan.jpg" 
-title="Kevan" caption="Kevan enjoying the beautiful weather on the Oregon coast in the winter" %}
 
 ## Kevan
 
