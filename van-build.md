@@ -30,7 +30,7 @@ Below we will list and try to link to the main items we used within our build.
   </tr>
   <tr>
     <td>
-      <a href="https://beddys.com/collections/beddys/products/checked-out?variant=38785479751" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/bedding.jpg" ></a><img src="/assets/images/pages/VanBuild/bedding.jpg" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Beddy's Checked Out Bedding Set</small>
+      <a href="https://beddys.com/collections/beddys/products/checked-out?variant=38785479751" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/bedding.JPG" ></a><img src="/assets/images/pages/VanBuild/bedding.JPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Beddy's Checked Out Bedding Set</small>
     </td>
 
   </tr>
