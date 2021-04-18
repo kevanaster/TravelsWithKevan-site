@@ -56,9 +56,12 @@ Below we will list and try to link to the main items we used within our build.
     	<a href="https://www.amazon.com/dp/B003ZOF09Y?coliid=I2GIX58VERQPC3&colid=25HEF36T49B08&psc=1&linkCode=li2&tag=travelswit007-20&linkId=27b7a557d368913db4563e38f2133c4b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003ZOF09Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=travelswit007-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=travelswit007-20&language=en_US&l=li2&o=1&a=B003ZOF09Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>MaxxFan Deluxe Fan with Remote and White Lid</small>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://www.heatso.com/espar-b4l-gasoline-heater-kit-12v-4kw/" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/espar_heater.jpg" ></a><img src="//assets/images/pages/VanBuild/espar_heater.jpg" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Espar B4L Gasoline Heater</small>
+    </td>
+    <td>
+      <a href="https://stores.12voltairconditioning.com/hd-12l-12-volt-dc-mini-split-system-air-conditioner/" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/cruisencomfort.jpg" ></a><img src="//assets/images/pages/VanBuild/cruisencomfort.jpg" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Cruise N Comfort HD12L Air Conditioner</small>
     </td>
   </tr>
 </table>
@@ -174,9 +177,12 @@ Below we will list and try to link to the main items we used within our build.
       <a href="https://www.amazon.com/weBoost-471410-Signal-Booster-Motorhome/dp/B07TYGJ9TV?dchild=1&keywords=weboost+rv&qid=1618709789&sr=8-5&linkCode=li2&tag=travelswit007-20&linkId=7e7510e1d265fcbf1d3b0a56150b8234&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TYGJ9TV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=travelswit007-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=travelswit007-20&language=en_US&l=li2&o=1&a=B07TYGJ9TV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>weBoost Drive X RV Cell Phone Signal Booster</small>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <a href="https://www.amazon.com/Ikea-Bj%C3%A4rnum-Folding-Hook-Aluminum/dp/B00AZ7BEDK?dchild=1&keywords=ikea+folding+hooks&qid=1618709905&sr=8-1&linkCode=li2&tag=travelswit007-20&linkId=503cfad271150e7ff1cac021b56eec4b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AZ7BEDK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=travelswit007-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=travelswit007-20&language=en_US&l=li2&o=1&a=B00AZ7BEDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Ikea Bjärnum Folding Hook</small>
+    </td>
+    <td>
+      <a href="https://vanupgrades.com/collections/promaster-exterior-accessories/products/promaster-roof-rack-and-awning-package" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/fiamma_roof_rack.jpeg" ></a><img src="//assets/images/pages/VanBuild/fiamma_roof_rack.jpeg" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Fiamma Roof Rack and Awning</small>
     </td>
   </tr>
 </table>
