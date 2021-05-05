@@ -69,3 +69,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# Assets
+assets:
+  compression: true
