@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-featured_image: /assets/images/pages/KandE.jpg
+featured_image: assets/images/pages/KandE.jpg
 ---
 
 Hello,
