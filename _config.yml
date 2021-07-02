@@ -8,7 +8,7 @@ author:
   image: 'twk.svg'
   greetings: "Hello! We are Kaitlyn and Eugene, and we are traveling in our self-converted Promaster named Kevan."
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://travelswithkevan.com/
 disqus: 'travelswithkevan'
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
