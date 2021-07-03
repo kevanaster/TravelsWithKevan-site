@@ -33,7 +33,6 @@ post_class: post-template
             <div class="post-content">
                 {{content}}
             </div>
-            {% include advertisements.html %}
             <footer class="post-footer">
                 <div class="post-share">
                     <span class="post-share-title">Share:</span>
@@ -41,6 +40,7 @@ post_class: post-template
                     <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}">Facebook</a>
                 </div><!-- .share-post -->
             </footer>
+            {% include adsense-comments.html %}
             {% include remarkbox.html %}
         </article>
         {% if site.mailchimp_url %}

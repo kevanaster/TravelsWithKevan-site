@@ -13,7 +13,8 @@ Today, I (Gene) am working on our website with limited internet connectivity in 
 
 The weather has been amazing most days, but there have been two days now that have kept us locked in our van avoiding the wind and occasional rain.
 
-
+<br>
+{% include adsense-horizontal1.html %}<br>
 
 ## Full Moon Circle
 - When we arrived at this location, we learned of a planned Full Moon Circle. Having never heard of or experienced anything like this, we knew we needed to go.
@@ -25,5 +26,10 @@ The weather has been amazing most days, but there have been two days now that ha
 - The evening was completed with sound therapy provided by a gong. Did you know there are so many different sounds produced by a single gong? We didn't. It was a very peaceful experience for both of us.
 - Nights in the desert are cold, so once the circle was closed, we hurried back to Kevan, cranked the heater on, and drifted off to a very rested sleep.
 
+<br>
+{% include adsense-horizontal2.html %}<br>
 
 We love that we get to explore and participate in things that we never would have been able to living a typical life. Living in a van has aboslutely opened a window into a world we never could have dreamed existed.
+
+<br>
+{% include adsense-square1.html %}<br>
