@@ -9,6 +9,9 @@ Kevan is a 2018 Promaster 3500 Extended cargo van. We converted him ourselves st
 Below we will list and try to link to the main items we used within our build. 
 <br><small><small>Items linked may be affiliate links associated with Amazon.</small></small>
 
+<br>
+{% include adsense-horizontal1.html %}<br>
+
 ### Most Common Requests
 
 <table>
@@ -67,6 +70,8 @@ Below we will list and try to link to the main items we used within our build.
 </table>
 
 
+<br>
+{% include adsense-horizontal2.html %}<br>
 
 ### Electrical
 
@@ -120,6 +125,9 @@ Below we will list and try to link to the main items we used within our build.
   </tr>
 </table>
 
+<br>
+{% include adsense-horizontal3.html %}<br>
+
 ### Plumbing
 
 <table>
@@ -157,6 +165,8 @@ Below we will list and try to link to the main items we used within our build.
   </tr>
 </table>
 
+<br>
+{% include adsense-horizontal4.html %}<br>
 
 ### Misc
 
