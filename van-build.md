@@ -14,6 +14,8 @@ Below we will list and try to link to the main items we used within our build.
 
 ### Most Common Requests
 
+Here are some of the most commonly asked about items in our van. If you can't find what you're looking for reach out to us and we'll try to link you in the right direction.
+
 <table>
   <tr>
     <td>
