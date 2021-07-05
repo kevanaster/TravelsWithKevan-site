@@ -21,5 +21,3 @@ title: Links
 
 <br>
 {% include adsense-horizontal1.html %}<br>
-
-These are links to articles we have written, articles we participated in, and YouTube videos showing us.
