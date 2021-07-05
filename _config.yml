@@ -42,8 +42,8 @@ navigation:
     url: /about
   - text: Van Build
     url: /van-build
-  - text: As Seen On...
-    url: /as-seen-on
+  - text: Links
+    url: /links
   - text: Contact Us
     url: /contact
   - text: Search

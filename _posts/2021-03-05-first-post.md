@@ -4,7 +4,7 @@ title:  "First Post"
 tags: [ first-post, vanlife, 2021, Arizona ]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2021/2021-03-03.JPG
-featured: true
+featured: false
 ---
 
 Hello and welcome to our first blog post. When we set out on our journey in Kevan, we did it with the thought that we would be forging memories for years to come. We think writing down and possibly sharing those memories is a good way to ensure we never forget the adventures we find along the way.
@@ -30,6 +30,3 @@ The weather has been amazing most days, but there have been two days now that ha
 {% include adsense-horizontal2.html %}<br>
 
 We love that we get to explore and participate in things that we never would have been able to living a typical life. Living in a van has aboslutely opened a window into a world we never could have dreamed existed.
-
-<br>
-{% include adsense-square1.html %}<br>

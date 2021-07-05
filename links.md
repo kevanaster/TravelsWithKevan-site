@@ -1,7 +1,11 @@
 ---
 layout: page
-title: As Seen On...
+title: Links
 ---
+
+#### Latest Blog Post
+
+[Taking our van on the ferry to Alaska](https://travelswithkevan.com/Alaska-Ferry-pt1)
 
 #### Frequently Requested
 
@@ -17,3 +21,5 @@ title: As Seen On...
 
 <br>
 {% include adsense-horizontal1.html %}<br>
+
+These are links to articles we have written, articles we participated in, and YouTube videos showing us.
