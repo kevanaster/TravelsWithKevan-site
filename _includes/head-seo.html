@@ -1,1 +1,8 @@
 {% seo %}
+
+ <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.keywords %}
+ <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+ <meta name="keywords" content="vanlife, promaster, conversion, campervan, rvlife, adventure, travel" />
+ {% endif %}

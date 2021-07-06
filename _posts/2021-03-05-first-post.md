@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "First Post"
-tags: [ first-post, vanlife, 2021, Arizona ]
+description: "This is our first blog post. We share our experiences in Lake Havasu including our first time at a moon circle. Join us as we discuss vanlife and what our experiences look like."
+keywords: [Arizona, Vanlife, Lake, Havasu, Moon, Circle]
+tags:
 featured_image_thumbnail:
 featured_image: assets/images/posts/2021/2021-03-03.JPG
 featured: false

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Taking our van on the ferry to Alaska"
-tags: [ Ferry, Alaska Ferry, Ketchikan, Bellingham, 2021, Alaska ]
+description: "Talking you through our experience with the Alaska Marine Highway ferry system. We share what living aboard was like for us and what we learned in our first time boarding. If you are intested in cost, we also shared what we paid broken down by board pass, vehicle, and rooms we booked onboard."
+keywords: [Alaska, Ferry, Marine, Highway, Cost, Vanlife, RV, Bus, ketchikan, juneau, sitka, whittier, bellingham]
+tags:
 featured_image_thumbnail:
 featured_image: assets/images/posts/2021/2021-01-07-001.jpg
 featured: true
