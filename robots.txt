@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /links
+Disallow: /contact
+
+
+Sitemap: https://travelswithkevan.com/sitemap.xml
