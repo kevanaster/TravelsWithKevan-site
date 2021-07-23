@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Van Build
+title: Shop Our Van
 featured_image: /assets/images/pages/Kevan_stGeorge.JPG
 ---
 

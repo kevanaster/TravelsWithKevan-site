@@ -9,7 +9,7 @@ title: Links
 
 #### Frequently Requested
 
-- [Van Build Parts](https://travelswithkevan.com/van-build)
+- [Shop Our Van](https://travelswithkevan.com/shop-our-van)
 
 
 #### Tours of our van
