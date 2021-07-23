@@ -9,8 +9,6 @@ featured_image: assets/images/posts/2021/2021-01-07-001.jpg
 featured: true
 ---
 
-## Alaska ferry
-
 The goal for our first summer in the van was always Alaska, however when the pandemic caused the border between Canada and the United States to close for all non-essential travel, we assumed our plan was dead in the water. The thought of taking  a ferry never crossed our minds until we visited Bellingham, WA in early spring and saw all of the Alaska ferry traffic signs and we decided to look into it. Even though it would cost a pretty penny, we knew taking the ferry would allow us to see more of the state than we would have gotten to otherwise and having less tourists around definitely excited us. We discovered that information on what to expect with the ferry was difficult to come by, and in sharing our journey, we hope to help others that are looking into this option of travel.
 
 <br>
