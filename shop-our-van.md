@@ -19,7 +19,7 @@ Here are some of the most commonly asked about items in our van. If you can't fi
 <table>
   <tr>
     <td>
-      <a href="https://theswivelshop.com/?ref=f5rcs6g9ic" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/seatswivel.png" ></a><img src="/assets/images/pages/VanBuild/seatswivel.png" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Beddy's Checked Out Bedding Set</small>
+      <a href="https://theswivelshop.com/?ref=f5rcs6g9ic" target="_blank"><img border="0" src="/assets/images/pages/VanBuild/seatswivel.png" ></a><img src="/assets/images/pages/VanBuild/seatswivel.png" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Scopema Swivel Seat</small>
     </td>
     <td>
       <a href="https://www.amazon.com/gp/product/B0031XXW4O?&linkCode=li2&tag=twk0df-20&linkId=c272548ab482b7cd7bc95e5ae80f3dbc&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0031XXW4O&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=twk0df-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=twk0df-20&language=en_US&l=li2&o=1&a=B0031XXW4O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <br><small>Extend-A-Shower</small>
