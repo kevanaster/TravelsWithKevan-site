@@ -5,8 +5,8 @@ title: Links
 
 #### Latest Blog Post
 
-[Installing a lightbar on our 2018 Ram Promaster](https://travelswithkevan.com/Lightbar-Install)
-[Taking our van on the ferry to Alaska](https://travelswithkevan.com/Alaska-Ferry-pt1)
+- [Installing a lightbar on our 2018 Ram Promaster](https://travelswithkevan.com/Lightbar-Install)
+- [Taking our van on the ferry to Alaska](https://travelswithkevan.com/Alaska-Ferry-pt1)
 
 #### Frequently Requested
 
