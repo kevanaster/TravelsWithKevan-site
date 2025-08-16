@@ -13,6 +13,29 @@ After being on the road for a year, we know that the stock headlights on the Pro
 
 I knew I could install a lightbar and couldn't find anyone that documented the process. I am not an expert, but I feel like it turned out looking good and wanted to share our experience in hopes of helping others looking to do the same.
 
+### ⚠️ Safety First
+**Always disconnect the battery before working with electrical components.**
+
+### Tools & Materials Needed
+
+**Tools:**
+- T30 Torx bit
+- Step drill bit
+- Hacksaw (or Dremel for cleaner cuts)
+- Wire strippers/crimpers
+- Drill and bits
+
+**Materials:**
+- [31" LED lightbar](https://amzn.to/47E8CFQ) 
+- [Wire harness kit](https://amzn.to/3UAfTPs)
+- Butt connectors with heat shrink
+- Electrical tape
+- Zip ties
+- Shorter bolts and nuts (for mounting)
+- Touch-up paint (for exposed metal)
+
+**Time needed:** Approximately 4-6 hours
+
 <br>
 {% include adsense-horizontal1.html %}<br>
 
@@ -20,17 +43,19 @@ I knew I could install a lightbar and couldn't find anyone that documented the p
 
 <center><img border="0" src="assets/images/posts/2021/Lightbar/IMG_8671.jpeg" ></center>
 
-I opted to install the lightbar recessed into the front paneling. I noted that the bumper aligns perfectly with the bottom opening of the grill. The opening seems like it would fit a 30-32 inch light bar nicely.
+I decided to install the lightbar recessed into the front paneling. I noted that the bumper aligns perfectly with the bottom opening of the grill. The opening seems like it would fit a 30-32 inch light bar nicely.
 
-I purchased the <a target="_blank" href="https://www.amazon.com/gp/product/B019XT82MQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019XT82MQ&linkCode=as2&tag=twk0e-20&linkId=7d6ba5a6f4b48ad333d1b359d6338dea">Nilight 31 inch LED lightbar</a> and the <a target="_blank" href="https://www.amazon.com/gp/product/B073XMM3T5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B073XMM3T5&linkCode=as2&tag=twk0e-20&linkId=bdc7dff86c7730728cf31503ee951454">associated wire harness</a> from Amazon. 
+I purchased the <a target="_blank" href="https://amzn.to/47E8CFQ">Nilight 31 inch LED lightbar</a> and the <a target="_blank" href="https://amzn.to/3UAfTPs">associated wire harness</a> from Amazon.
 
 <center>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=twk0e-20&marketplace=amazon&amp;region=US&placement=B019XT82MQ&asins=B019XT82MQ&linkId=d0b8d35d14ca666dd592adcc55d82224&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=twk0e-20&marketplace=amazon&amp;region=US&placement=B073XMM3T5&asins=B073XMM3T5&linkId=63d0e08c49b2eca533a072feb70c2368&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-</iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=twk0e-20&marketplace=amazon&amp;region=US&placement=B07B518GCJ&asins=B07B518GCJ&linkId=04b59db388b96948736326178d79e650&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
-</iframe>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+  <a target="_blank" href="https://amzn.to/47E8CFQ">
+    <img src="/assets/images/posts/2021/Lightbar/lightbar-amazon.jpg" alt="Nilight LED lightbar" style="max-width: 150px;">
+  </a>
+  <a target="_blank" href="https://amzn.to/3UAfTPs">
+    <img src="/assets/images/posts/2021/Lightbar/wiringharness.jpg" alt="Wire harness" style="max-width: 150px;">
+  </a>
+</div>
 </center>
 
 ### Installing the exterior light
@@ -60,12 +85,12 @@ I purchased the <a target="_blank" href="https://www.amazon.com/gp/product/B019X
 
 * Connect the lightbar to the cable run for the switch. I used butt connectors with heat shrink, then made sure to cover all of the exposed wire with electrical tape for extra protection. 
 
-* Use zip ties to pull the cable out of the way and ensure it runs neatly to the interior of the cab. 
+* Use zip ties to secure the cable out of the way and ensure it runs neatly to the interior of the cab. 
 
 <center><img border="0" src="assets/images/posts/2021/Lightbar/IMG_8696.jpeg"></center>
 <center><img border="0" src="assets/images/posts/2021/Lightbar/IMG_8697.jpeg"></center>
 
-* Cut out all of the verticle plastic pieces in the area for the lightbar. I used a hacksaw for this, but I think a Dremel might have been easier.
+* Cut out all of the vertical plastic pieces in the area for the lightbar. I used a hacksaw for this, but I think a Dremel might have been easier.
 
 <center><img border="0" src="assets/images/posts/2021/Lightbar/IMG_8698.jpeg"></center>
 

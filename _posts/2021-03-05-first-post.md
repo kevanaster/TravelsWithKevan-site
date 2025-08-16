@@ -28,7 +28,4 @@ The weather has been amazing most days, but there have been two days now that ha
 - The evening was completed with sound therapy provided by a gong. Did you know there are so many different sounds produced by a single gong? We didn't. It was a very peaceful experience for both of us.
 - Nights in the desert are cold, so once the circle was closed, we hurried back to Kevan, cranked the heater on, and drifted off to a very rested sleep.
 
-<br>
-{% include adsense-horizontal2.html %}<br>
-
-We love that we get to explore and participate in things that we never would have been able to living a typical life. Living in a van has aboslutely opened a window into a world we never could have dreamed existed.
+We love that we get to explore and participate in things that we never would have been able to living a typical life. Living in a van has absolutely opened a window into a world we never could have dreamed existed.
